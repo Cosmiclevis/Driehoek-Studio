@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "JTPicolo-Medium";
+  font-weight: medium;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/JTPicolo-Medium.woff") format("woff"),
+       url("../fonts/JTPicolo-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "JTPicolo-MediumItalic";
+  font-weight: medium;
+  font-style: italic;
+  font-display: auto;
+  src: url("../fonts/JTPicolo-MediumItalic.woff") format("woff"),
+       url("../fonts/JTPicolo-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "JTPicolo-Bold";
+  font-weight: bold;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/JTPicolo-Bold.woff") format("woff"),
+       url("../fonts/JTPicolo-Bold.woff2") format("woff2");
+}
+
