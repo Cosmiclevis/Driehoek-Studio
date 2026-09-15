@@ -2,7 +2,7 @@
 
 My name is Frederico Pereira. I studied graphic design in the Netherlands, and this is my portfolio as of August 2026.
 
-Driehoek Studio is an independent graphic design practice interested in visual identities, editorial design, photography, web design, and moving image.
+Driehoek Studio is an independent graphic design practice interested in visual identities, editorial design, photography, web design, and drawings.
 
 I am particularly interested in working with artists, musicians, and other creative projects, developing visual languages that can exist across different formats and mediums.
 
@@ -14,13 +14,11 @@ Here you will find a selection of my work, organized by categories of interest:
 
 [02] Photography
 
-[03] Moving Image
+[03] Web Design
 
-[04] Web Design
+[04] Drawings
 
-[05] Drawings
-
-[06] Visual Identity
+[05] Visual Identity
 
 For enquiries and collaborations:
 
